@@ -2,8 +2,8 @@
 > Jarida rasmia summarized with ai, data as json, etc **tg/@jaridarasmia_bot**
 
 # 📂How can i use this data?
-> 🔎You can browse the data using this website `jarida.wavedev.lol` **soon™️**
-> ✨You can also use the [telegram bot](https://t.me/jaridarasmia_bot) to browse the data
+-  🔎You can browse the data using this website `jarida.wavedev.lol` **soon™️**
+- ✨You can also use the [telegram bot](https://t.me/jaridarasmia_bot) to browse the data
 
 # ♥️Contributing
 > If you want to contribute, or found a mistake
