@@ -15,4 +15,4 @@
   - **Description:** Describe the corrected mistakes etc
 
 # 🎁Donating
-If you like the idea/the project, you can support my work by donating to [My Ko-Fi](https://ko-fi.com/wavedev)
+If you like the idea/the project, you can support my work by donating to [My Ko-Fi](https://ko-fi.com/happyenderman)
