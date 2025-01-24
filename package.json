@@ -1,0 +1,12 @@
+{
+  "name": "jarida-rasmia-data",
+  "version": "1.0.0",
+  "description": "> Jarida rasmia summarized with ai, data as json, etc **tg/@jaridarasmia_bot**",
+  "main": "checkData.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
