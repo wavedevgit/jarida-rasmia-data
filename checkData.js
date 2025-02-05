@@ -13,7 +13,7 @@ async function main() {
     ).json();
     const info = {};
     for (let file of bo.data) {
-        const name = file.url.split('/').pop().split('.')[0] + '.json';
+        const name = decodeURIComponent(file.url.split('/').pop().split('.')[0]) + '.json';
         file.url = file.url.startsWith('/') ? 'http://www.sgg.gov.ma' + file.url : file.url;
         info[name] = file;
         if (!fs.existsSync('./data/' + name)) {
@@ -21,7 +21,7 @@ async function main() {
         }
     }
     for (let file of eci.data) {
-        const name = file.url.split('/').pop().split('.')[0] + '.json';
+        const name = decodeURIComponent(file.url.split('/').pop().split('.')[0]) + '.json';
         file.url = file.url.startsWith('/') ? 'http://www.sgg.gov.ma' + file.url : file.url;
         info[name] = file;
         if (!fs.existsSync('./data/' + name)) {
